@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    
+    cout << "Celsius - 25.5" << endl;  
+    cout << "Kelvin - 298.5"; 
+    //output:
+    //Celsius-25.5
+    //Kelvin-298.5
+
+    return 0;
+}
