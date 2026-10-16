@@ -4,41 +4,34 @@
 
 ## Problem
 
-### Multiple Choice Question
+Write a program for the following problem
 
-What will be the output of this code?
+- Let’s consider a rectangle of length 11 and breadth 13.
+- Output the following on separate lines: Area of the rectangle having sides as 11 and 13 Perimeter of the rectangle having sides as 11 and 13
 
-```
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Add" << 2 << " to" << 3;
-}
-
-```
+For any rectangle, the formula for area is length * breadth.
+The formula for perimeter is 2 * (length + breadth).
 
 ## Solution
 
-**Language:** C++  
+**Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-16T05:58:23.126Z  
+**Submitted:** 2026-10-16T06:18:17.535Z  
 
-```cpp
-#include <iostream>
+```c_cpp
+#include <bits/stdc++.h>
+
 using namespace std;
 
 int main() {
-
-  cout << 7 << " and " << 3;
-  
-  // output
-  // 7 and 3
-
-  
-};
-
+    cout << 11*13 << endl;
+    cout << 2*(11+13);
+    
+    //output:
+    //143
+    //48
+}
 ```
 
 ---
