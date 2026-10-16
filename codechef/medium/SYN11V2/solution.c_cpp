@@ -1,16 +1,12 @@
-#include <iostream>
+
+#include<iostream>
 using namespace std;
 
-int main() {
-	cout<< 9-2<<endl;
-	cout<<30/5;
-	
-	//output:
-	//7
-	//6
-	
-	
-	
+int main()
+{
+    cout<< 12+7;
     
-
+    //output:
+    //19
 }
+
