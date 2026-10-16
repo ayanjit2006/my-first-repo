@@ -4,8 +4,6 @@
 
 ## Problem
 
-### Print Learn Coding on CodeChef
-
 Print  **"Learn Coding on CodeChef"**  to the console.
 
 ### Sample 1:
@@ -25,15 +23,14 @@ Learn Coding on CodeChef
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-15T03:01:54.900Z  
+**Submitted:** 2026-10-16T06:19:44.233Z  
 
 ```c_cpp
 #include <iostream>
 using namespace std;
 
 int main() {
-    
-    cout<< "Learn Coding on CodeChef";
+cout<<"Learn Coding on CodeChef";
 	
 }
 
