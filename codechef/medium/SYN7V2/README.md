@@ -4,49 +4,42 @@
 
 ## Problem
 
-### Multiple outputs using a single line
+### Inserting space between outputs
 
 Listen
 
-You can also have multiple outputs together in a single `"cout"` command.
-They are joined together using the  **`"<<"`**  symbol.
+If you want the output to be in the same line and have a space separate them,
 
-So, for example,
+- We can use " " to act as an empty space in between multiple outputs.
+- We had seen previously that text has to be enclosed within double quotes during cout ("text")
+- An empty space is a blank space between double quotes (" ")
 
-```
-cout << 2;
-cout << endl;
-cout << 3;
+For example, to print:  **2 2**, we can write
 
 ```
-
-and
-
-```
-cout << 2 << endl << 3;
+cout<< 2 << " " << 2;
 
 ```
-
-are equivalent.
 
 ### Task
 
-Write a program to output 7 and 3 on two lines, using a single cout statement.
+Write a program to output 7 and 3 on a single line, space separated, using a single cout statement.
 
 ## Solution
 
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-14T14:29:42.847Z  
+**Submitted:** 2026-10-16T05:56:56.444Z  
 
 ```c_cpp
 #include <iostream>
 using namespace std;
 
 int main() {
-    
-    cout<<7<<endl<<3;
+
+  cout << 7<<" "<<3;
+
 };
 
 ```
