@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-    
-    cout<< "Learn Coding on CodeChef";
+cout<<"Learn Coding on CodeChef";
 	
 }
