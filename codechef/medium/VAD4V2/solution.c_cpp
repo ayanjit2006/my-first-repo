@@ -2,12 +2,10 @@
 using namespace std;
 
 int main() {
-     int a =23;
-     int b = 20;
-     cout<< a+b;
-
-
-
+    int length = 45;
+    int width = 76;
+    int area = 45* 76;
     
-    
+    cout << "The Area of the given rectangle is " << 3420<< endl;
+
 }
