@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     
-    int age = 25;
-    cout << age;
+    int number = 19;
+    
+    cout<< number;
 }
