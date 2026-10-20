@@ -40,7 +40,7 @@ Write a program which does the following:
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-20T15:30:47.571Z  
+**Submitted:** 2026-10-20T15:31:06.437Z  
 
 ```c_cpp
 #include <iostream>
