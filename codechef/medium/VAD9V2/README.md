@@ -25,7 +25,7 @@ Write a program which does the following:
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-21T03:06:44.739Z  
+**Submitted:** 2026-10-21T03:08:59.469Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -36,9 +36,13 @@ int main() {
     int a = -50;
     int b = 40;
     
-    cout<<a+b<<endl;
-    cout<<a*b<<endl;
-    cout<<a/b;
+    int sum = a+b;
+    int product = a*b;
+    int quotient = a/b;
+    
+    cout << sum<<endl;
+    cout << product<<endl;
+    cout << quotient;
  
 
 
