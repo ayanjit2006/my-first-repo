@@ -33,7 +33,7 @@ $1372
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-21T03:02:01.489Z  
+**Submitted:** 2026-10-21T03:02:58.574Z  
 
 ```c_cpp
 #include <iostream>
@@ -45,6 +45,10 @@ int main() {
     int cost = area*7;
     cout<<area<<endl;
     cout<<"$"<<cost;
+    
+    //output:
+    //196;
+    //$1372;
 }
 ```
 
