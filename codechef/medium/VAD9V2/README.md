@@ -25,7 +25,7 @@ Write a program which does the following:
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-21T03:06:36.583Z  
+**Submitted:** 2026-10-21T03:06:44.739Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
