@@ -1,0 +1,53 @@
+# VAD8V2 - Rating 550
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
+
+## Problem
+
+### Cost of painting
+
+Listen
+
+Write a program which does the following
+
+- Find the area of a square of side $14cm.$
+- Also, find the cost of painting the square if the paint costs is $$7cm/sq.$
+- Initialise the following variables in your program and use them in the computation s to store the length of side the square area to store the area of the square cost to store the cost of painting
+- Output area and cost to the console on separate lines.
+- Note: Include the character "$" with the cost without any space
+### Sample 1:
+Input
+Output
+
+```
+ 
+```
+
+```
+196
+$1372
+```
+
+## Solution
+
+**Language:** c_cpp  
+**Runtime:** N/A  
+**Memory:** N/A  
+**Submitted:** 2026-10-21T03:02:01.489Z  
+
+```c_cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int s = 14;
+    int area = 14*14;
+    int cost = area*7;
+    cout<<area<<endl;
+    cout<<"$"<<cost;
+}
+```
+
+---
+
+[View on CodeChef](https://www.codechef.com/problems/VAD8V2)
