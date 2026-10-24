@@ -27,10 +27,10 @@ This will cause an overflow and the value inside the variable will not be the nu
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-24T14:54:35.542Z  
+**Submitted:** 2026-10-24T14:55:06.960Z  
 
 ```c_cpp
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
