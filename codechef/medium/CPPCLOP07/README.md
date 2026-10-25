@@ -17,7 +17,7 @@ Output $1$ if yes, else $0$, assuming that the voting age is $18$ i.e., a person
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-25T02:35:37.466Z  
+**Submitted:** 2026-10-25T02:35:51.145Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
