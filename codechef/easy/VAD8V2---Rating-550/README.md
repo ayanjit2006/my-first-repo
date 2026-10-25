@@ -4,8 +4,6 @@
 
 ## Problem
 
-### Cost of painting
-
 Listen
 
 Write a program which does the following
@@ -33,7 +31,7 @@ $1372
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-21T03:02:58.574Z  
+**Submitted:** 2026-10-25T01:18:06.453Z  
 
 ```c_cpp
 #include <iostream>
@@ -41,14 +39,14 @@ using namespace std;
 
 int main() {
     int s = 14;
-    int area = 14*14;
-    int cost = area*7;
-    cout<<area<<endl;
-    cout<<"$"<<cost;
     
-    //output:
-    //196;
-    //$1372;
+    // add variable area here
+    int area = 14 * 14;
+    
+    int cost = area * 7;
+    
+    cout << area << endl;
+    cout << "$" << cost;
 }
 ```
 
