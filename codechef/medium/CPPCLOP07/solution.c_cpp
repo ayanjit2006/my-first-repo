@@ -1,0 +1,9 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int age = 20;
+    cout<<(age>=18)<<endl;
+    
+    //output:1 if yes,else 0;
+}
