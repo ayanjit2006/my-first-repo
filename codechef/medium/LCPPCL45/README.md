@@ -30,15 +30,13 @@ Write a program which does the following:
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-26T13:59:48.024Z  
+**Submitted:** 2026-10-26T14:06:43.551Z  
 
 ```c_cpp
-#include <bits/stdc++.h>
-
+#include<iostream>
 using namespace std;
-
-int main() {
-
+int main()
+{
     string txt = "Programming";
     cout << "The length of the word is: " << txt.length();
 }
