@@ -1,9 +1,7 @@
-#include <bits/stdc++.h>
-
+#include<iostream>
 using namespace std;
-
-int main() {
-
+int main()
+{
     string txt = "Programming";
     cout << "The length of the word is: " << txt.length();
 }
