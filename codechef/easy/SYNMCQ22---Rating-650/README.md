@@ -28,7 +28,7 @@ int main()
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-27T02:14:57.457Z  
+**Submitted:** 2026-10-27T02:15:02.897Z  
 
 ```cpp
 #include <bits/stdc++.h>
