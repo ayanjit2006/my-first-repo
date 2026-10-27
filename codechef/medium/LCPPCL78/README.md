@@ -51,7 +51,7 @@ Bravo!
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-27T13:28:06.860Z  
+**Submitted:** 2026-10-27T13:28:33.438Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
@@ -63,7 +63,7 @@ int main() {
   int b;
   cin >> a;
   cin >> b;
-  if (a > b) {
+  if (a >= b) {
     cout << "Bravo!" << endl;
   } 
   else {
