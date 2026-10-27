@@ -58,7 +58,7 @@ Ram is heavier than Karan.
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-27T02:51:17.465Z  
+**Submitted:** 2026-10-27T02:53:35.399Z  
 
 ```c_cpp
 // Solution as follows
