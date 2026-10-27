@@ -35,7 +35,7 @@ int main() {
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-27T13:34:25.568Z  
+**Submitted:** 2026-10-27T13:34:30.022Z  
 
 ```cpp
 #include <bits/stdc++.h>
