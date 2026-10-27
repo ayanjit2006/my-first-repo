@@ -1,0 +1,64 @@
+# SYNMCQ33 - Rating 650
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green)
+
+## Problem
+
+### Multiple Choice Question
+
+What will be the output of this code?
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int a = 0;
+    int b = 0;
+
+    if (a >= b) {
+        cout << "a is greater or equal to b. ";
+    }
+    if ((a == 0) || (b == 0)) {
+        cout << "At least one is 0. ";
+    }
+    if ((a == 0) && (b == 0)) {
+        cout << "Both are 0. ";
+    }
+    cout << "Program ends";
+}
+
+```
+
+## Solution
+
+**Language:** C++  
+**Runtime:** N/A  
+**Memory:** N/A  
+**Submitted:** 2026-10-27T13:42:35.914Z  
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+
+  int z;
+  int x;
+  int  c;
+  cin >> z;
+  cin >> x;
+  cin >> c;
+  if (c > x||c > z ) {
+    cout << "PASS" << endl;
+  } 
+  else {
+    cout << "FAIL" << endl;
+  }
+}
+
+```
+
+---
+
+[View on CodeChef](https://www.codechef.com/problems/SYNMCQ33)
