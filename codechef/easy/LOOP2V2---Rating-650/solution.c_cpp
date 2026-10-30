@@ -1,0 +1,15 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n = 128;
+    //Initialization: set i to the starting value
+    int i = 2;
+    //Condition: keep repeating till less than equal to n
+    while (i <= n) {
+        //Output i(current number)
+        cout << i << endl;
+        // Update Statement: At each iteration multiply i(current number) by 2
+        i *= 2;
+    }
+}
