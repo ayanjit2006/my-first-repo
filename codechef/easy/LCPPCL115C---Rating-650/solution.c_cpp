@@ -1,12 +1,10 @@
 #include <bits/stdc++.h>
-
 using namespace std;
 
 int main() {
-    // Solution as follows
-    int i = 10;
-    while (i >= 0) {
+    int i = 11;
+    while (i < 20) {
         cout << i << endl;
-        i--;
+        i += 2;
     }
 }
