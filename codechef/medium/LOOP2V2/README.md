@@ -1,0 +1,69 @@
+# LOOP2V2
+
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
+
+## Problem
+
+### User input Loop
+
+Listen
+
+Let us change the problem a bit.
+
+### Task
+
+Write a program which does the following
+
+- Declare a variable num and store a user defined input from the console in it
+- Declare a variable a and initialise it to 0
+- Use the while syntax to create a loop, output the following to the console Print a in separate lines as long as it is less than num. Increment a by 1 in each iteration.
+### Sample 1:
+Input
+Output
+
+```
+10
+```
+
+```
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
+
+## Solution
+
+**Language:** c_cpp  
+**Runtime:** N/A  
+**Memory:** N/A  
+**Submitted:** 2026-10-30T05:37:55.548Z  
+
+```c_cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+
+  int num;
+  cin >> num; 
+  int a = 0;
+  while (a < num ) {
+    cout << a << endl;
+    a = a+1;
+  }
+
+  
+}
+
+```
+
+---
+
+[View on CodeChef](https://www.codechef.com/problems/LOOP2V2)
