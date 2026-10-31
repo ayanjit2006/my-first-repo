@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    if (n < 2) { // edge cases
+        cout << "No";
+        return 0;
+    }
+    int i = 2;
+    bool isPrime = true;
+    while (i < n) {
+        if (n % i == 0) {
+            isPrime = false;
+        }
+        i++;
+    }
+    if (isPrime) {
+        cout << "Yes" << endl;
+    }
+    else {
+        cout << "No" << endl;
+    }
+}
