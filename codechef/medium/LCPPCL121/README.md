@@ -30,7 +30,7 @@ The factorial of the given number is: 720
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-31T15:12:08.276Z  
+**Submitted:** 2026-10-31T15:12:20.104Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
