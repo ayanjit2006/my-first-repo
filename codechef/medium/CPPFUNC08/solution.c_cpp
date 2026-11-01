@@ -1,27 +1,27 @@
 #include <iostream>
+#include <string>  // For using string functions
+#include <algorithm>  // For using transform function
 using namespace std;
 
-// Global variable
-int globalVar = 10;
+// Function to print the greeting
+void printGreeting(const string& name) {
 
-void myFunction() {
-    // Local variable
-    int localVar = 20;
+    // Convert the greeting to uppercase
+    string upperGreeting = "Hello, " + name + "!";
 
-    // Accessing and printing both the global variable and local variable
-    cout << localVar << endl;   // Should print 20
-    cout << globalVar << endl; // Should print 10
+    // converts the string to uppercase
+    transform(upperGreeting.begin(), upperGreeting.end(), upperGreeting.begin(), ::toupper);
+
+    // Print the final result
+    cout << "Final Result: " << upperGreeting << endl;
 }
 
 int main() {
-    // Calling the function
-    myFunction();
+    // The name to be used in the greeting
+    string name = "Alice";
+    
+    printGreeting(name);
 
-    // Accessing and printing the global variable
-    // cout << globalVar << endl; // Should print 10
-
-    // Trying to access the local variable here would cause an error as it's out of scope
-    // cout << localVar << endl; // Uncommenting this line would cause a compilation error
 
     
 }
