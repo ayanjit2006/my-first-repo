@@ -1,0 +1,29 @@
+#include <iostream>
+#include <cstdlib> // for std::abs
+
+using namespace std;
+
+int multiple(int a, int b) {
+    return a * b;
+}
+
+int total(int x, int y) {
+    return x + y;
+}
+
+int abs_diff(int a, int b) {
+    return abs(a - b);
+}
+
+int main() {
+    int A, B;
+    cin >> A >> B;
+    
+    int C = multiple(A, B);
+    int D = total(A, B);
+    int E = abs_diff(C, D);
+    
+    cout << E << endl;
+    
+    
+}
