@@ -13,7 +13,7 @@ How do you declare a pointer to an integer variable?
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T03:56:52.360Z  
+**Submitted:** 2026-11-19T03:47:25.520Z  
 
 ```cpp
 #include <iostream>
