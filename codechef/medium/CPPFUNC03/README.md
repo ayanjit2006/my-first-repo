@@ -70,28 +70,34 @@ Output
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-01T13:44:48.206Z  
+**Submitted:** 2026-11-19T03:12:00.183Z  
 
 ```c_cpp
-#include<iostream>
+#include <iostream>
 using namespace std;
+
+// User-defined function to generate and print a list of numbers from 1 to limit
 void list_generator(int limit) {
     
     for(int i = 1; i <= limit; i++){
-        cout << i<< " ";
-        
+        cout << i << " ";
     }
-    
     cout << "\n";
+    
 }
 
+// Do not update the code below this line
+
 int main() {
-    int A,B;
+    int A, B;
     cin >> A >> B;
-    
+
     list_generator(A);
     list_generator(B);
+
+    
 }
+
 ```
 
 ---
