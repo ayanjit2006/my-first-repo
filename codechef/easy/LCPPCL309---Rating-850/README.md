@@ -45,7 +45,7 @@ void swap(int  *ptr1, int* ptr2) {
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T03:57:19.079Z  
+**Submitted:** 2026-11-19T03:47:36.212Z  
 
 ```cpp
 #include <iostream>
