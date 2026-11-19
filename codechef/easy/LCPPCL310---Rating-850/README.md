@@ -26,7 +26,7 @@ int main() {
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T03:57:54.017Z  
+**Submitted:** 2026-11-19T03:48:29.442Z  
 
 ```cpp
 #include <iostream>
