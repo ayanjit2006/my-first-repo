@@ -41,7 +41,7 @@ Run the code in the IDE and check the output.
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T03:51:42.074Z  
+**Submitted:** 2026-11-19T03:42:38.806Z  
 
 ```c_cpp
 #include <iostream>
