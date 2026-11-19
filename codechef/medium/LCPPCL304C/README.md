@@ -26,7 +26,7 @@ Here are some key points about null pointers in C++:
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T03:54:20.059Z  
+**Submitted:** 2026-11-19T03:46:29.873Z  
 
 ```c_cpp
 #include <iostream>
