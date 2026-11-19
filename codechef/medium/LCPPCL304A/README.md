@@ -43,7 +43,7 @@ int main() {
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T03:49:33.568Z  
+**Submitted:** 2026-11-19T03:38:19.856Z  
 
 ```c_cpp
 #include <iostream>
