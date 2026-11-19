@@ -26,7 +26,7 @@ Run the code in the IDE and check the address of the variable
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-03T03:48:34.251Z  
+**Submitted:** 2026-11-19T03:32:08.472Z  
 
 ```c_cpp
 #include <iostream>
