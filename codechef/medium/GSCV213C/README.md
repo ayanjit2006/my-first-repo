@@ -42,11 +42,11 @@ Output
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-22T03:12:09.657Z  
+**Submitted:** 2026-11-22T03:12:17.254Z  
 
 ```c_cpp
 // Change the 'custom inputs' below and click 'run'
-// Click on 'Submit' once you have tried out to proceed to the next problem
+// Once you have run the code - click on 'submit'
 #include <bits/stdc++.h>
 
 using namespace std;
