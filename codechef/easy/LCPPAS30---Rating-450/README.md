@@ -26,7 +26,7 @@ Kelvin - 298.5
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-25T12:40:18.788Z  
+**Submitted:** 2026-11-25T12:49:05.363Z  
 
 ```c_cpp
 #include <iostream>
