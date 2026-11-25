@@ -28,17 +28,18 @@ Output
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-25T12:09:48.770Z  
+**Submitted:** 2026-11-25T12:15:05.477Z  
 
 ```c_cpp
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout<< 8 + 4 << "\n";
-    cout<< 8 - 4 << "\n";
-    cout<< 8 / 4 << "\n";
-    cout<< 8 * 4 << "\n";
+    cout<< 8 + 4 << endl;
+    cout<< 8 - 4 << endl;
+    cout<< 8 / 4 << endl;
+    cout<< 8 * 4 << endl;
+    return 0;
 }
 
 ```
