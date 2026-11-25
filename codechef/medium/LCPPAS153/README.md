@@ -22,7 +22,7 @@ Create a variable named  **speed1**  and assign it the value 36, representing sp
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-25T12:57:24.447Z  
+**Submitted:** 2026-11-25T12:58:24.377Z  
 
 ```c_cpp
 #include <iostream>
