@@ -31,7 +31,7 @@ Coding on CodeChef - 18
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-26T02:00:45.467Z  
+**Submitted:** 2026-11-26T02:04:00.477Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
