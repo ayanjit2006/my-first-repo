@@ -2,8 +2,9 @@
 using namespace std;
 
 int main() {
-    int one, two;
-    cin >> one >> two;
-    cout << one/two << endl;
+    float radius;
+    cin >> radius;
+    cout << 3.14 * radius * radius << endl;
+
     return 0;
 }
