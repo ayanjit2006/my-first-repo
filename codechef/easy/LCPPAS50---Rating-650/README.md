@@ -26,7 +26,7 @@ Code Chef
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-26T02:18:49.992Z  
+**Submitted:** 2026-11-26T02:19:00.111Z  
 
 ```c_cpp
 #include <iostream>
